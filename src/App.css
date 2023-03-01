@@ -23,3 +23,28 @@ li {
 li:hover {
   background-color: rgba(255, 255, 0, 0.191);
 }
+
+.noMatch h2{
+  font-family: "Courgette";
+  font-size: 60px;
+  color: rgb(170, 21, 27);
+  display: flex;
+  justify-content: center;
+}
+
+.noMatch .back{
+  padding-top: 15%;
+  padding-bottom: 15%;
+  /* font-family: "Courgette"; */
+  font-size: 60px;
+  font-weight: bolder;
+  color: rgb(170, 21, 27);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-decoration: "none"
+  /* text-decoration-line: "none"; */
+  /*text-decoration-style: wavy; */
+
+}
+
