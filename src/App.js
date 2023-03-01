@@ -28,7 +28,7 @@ export default function App() {
     </div>
   );
 }
-const navStyle = {textDecoration: "none", color: "blue"};
+const navStyle = {textDecoration: "none", color: "red"};
 function Layout() {
   return (
     <div>
