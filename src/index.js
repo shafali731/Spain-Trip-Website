@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './fonts/SpongeboyRegular.otf'
+import './fonts/SpongeboyRegular.otf';
+import './fonts/Courgette-Regular.ttf';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
