@@ -28,7 +28,7 @@ export default function App() {
     </div>
   );
 }
-const navStyle = {textDecoration: "none", color: "red"};
+const navStyle = {textDecoration: "none", color: "rgb(170, 21, 27)"};
 function Layout() {
   return (
     <div>
@@ -66,11 +66,12 @@ function Layout() {
 
 function NoMatch() {
   return (
-    <div>
-      <h2>Nothing to see here!</h2>
-      <p>
-        <Link to="/">Go to the home page</Link>
-      </p>
+  
+    <div className='noMatch' style={{backgroundColor: "rgb(241, 191, 0)"}}>
+      <h2>Seems like you've wandered off of the site a bit! There's nothing to see here!</h2>
+      <div className='back'>
+        <Link to="/" style= {{textDecoration:"none", color: "rgb(170, 21, 27)"}}>Go to the home page</Link>
+      </div>
     </div>
   );
 }
