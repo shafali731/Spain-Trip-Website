@@ -6,7 +6,7 @@ function Homepage() {
     <div className="content">
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       <div className='headerBack'>
-      <h1 style={{fontFamily: "Courgette", color: "red",fontSize: "70px", justifyContent: "center", display: "flex"}}>Welcome to Spain!</h1>
+      <h1 style={{fontFamily: "Courgette", color: "rgb(170, 21, 27)",fontSize: "70px", justifyContent: "center", display: "flex", padding: "2px"}}>Welcome to Spain!</h1>
       </div>
       {/* <div class="menu"> */}
         {/* Photo by <a href="https://unsplash.com/@jorgefdezsalas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Fernández Salas</a> on <a href="https://unsplash.com/s/photos/spain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

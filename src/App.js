@@ -28,7 +28,7 @@ export default function App() {
     </div>
   );
 }
-const navStyle = {textDecoration: "none", color: "red"};
+const navStyle = {textDecoration: "none", color: "rgb(170, 21, 27)"};
 function Layout() {
   return (
     <div>
@@ -48,9 +48,9 @@ function Layout() {
           <li>
             <Link style={navStyle} to="/attractions">Attractions</Link>
           </li>
-          <li>
+          {/* <li>
             <Link style={navStyle} to="/nothing-here">Nothing Here</Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
 
