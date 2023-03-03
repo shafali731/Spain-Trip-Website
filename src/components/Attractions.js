@@ -12,7 +12,7 @@ function Attractions() {
       </div>
       <div className="boxes">
         <div className="spongebob">
-          <h3>Sagrada Familia Basilica</h3>
+          <h2>Sagrada Familia Basilica</h2>
           <img src={sagrada} alt="spongebob house" />
           <p>
           The outstanding Sagrada Familia Basilica located in the city of Barcelona remains the most visited attraction in Spain and is arguably the best place to visit in Spain.
@@ -27,7 +27,7 @@ Opening hours for public visits are between 9 am to 6 pm during the winter month
           </p>
         </div>
         <div className="patrick">
-        <h3>The Great Mosque of Cordoba</h3>
+        <h2>The Great Mosque of Cordoba</h2>
           <img src={cordaba} alt="patrick house" />
           <p>
           The charming Andalucian city of Cordoba is most famous for the impressive Mezquita Mosque-Cathedral located in the heart of the city.  The great Arab Mosque dates back to 784 A.D, becoming a World Heritage site in 1984. Cordoba was founded by the Romans in the 2nd Century and became one of the most important cities under the rule of emperor Augustus, the cities great era though came in the 8th century when it was conquered by the Moors.
