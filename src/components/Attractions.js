@@ -15,24 +15,14 @@ function Attractions() {
           <h2>Sagrada Familia Basilica</h2>
           <img src={sagrada} alt="spongebob house" />
           <p>
-          The outstanding Sagrada Familia Basilica located in the city of Barcelona remains the most visited attraction in Spain and is arguably the best place to visit in Spain.
-
-A world heritage site, the Sagrada Familia attracts over three million visitors each year. It is one of the most popular single attractions in the world.
-
-This stunning Gothic structure mesmerises its visitors with its sheer beauty and highly unique architecture, which is a combination of Gothic and modern.
-
-Visitors are able to gain access to different parts of the church including a museum, shop, nave, crypt and towers.
-
-Opening hours for public visits are between 9 am to 6 pm during the winter months and until 8 pm in the summer months. 
+          The outstanding Sagrada Familia Basilica is a must see in Barcelona. It is the most visited attraction in Spain and some may says the best place to visit in Spain. It is a world heritage site that attracts over three million visitors each year; making it one of the more popular singles attractions in the world. It has beautiful Gothic structure and a combination of Gothic and modern architecture. Opening hours for public visits are between 9 am to 6 pm during the winter months and until 8 pm in the summer months. Get tickets <a style= {{color: "rgb(170, 21, 27)"}} href="https://sagradafamilia.org/en/">here!</a>
           </p>
         </div>
         <div className="patrick">
         <h2>The Great Mosque of Cordoba</h2>
           <img src={cordaba} alt="patrick house" />
           <p>
-          The charming Andalucian city of Cordoba is most famous for the impressive Mezquita Mosque-Cathedral located in the heart of the city.  The great Arab Mosque dates back to 784 A.D, becoming a World Heritage site in 1984. Cordoba was founded by the Romans in the 2nd Century and became one of the most important cities under the rule of emperor Augustus, the cities great era though came in the 8th century when it was conquered by the Moors.
-
-Apart from the Great Mosque Cordoba is full of interesting places to visit including the famously decorated garden patios, the Zoco craft market, Casa Andalusi, the Jewish quarter, and the banks of the Guadalquivir River. 
+          The Mezquita Mosque-Cathedral is located in the heart of the charming city, Andalusian in Cordoba. The Arab Mosque dates back to 784 A.D. and became a World Heritage site in 1984. It is one of the oldest structures still standing from the time Muslims ruled Al-Andalus. The mosque represents a unique artistic achievement due to its size and the sheer boldness of the height of its ceilings. Only a two hour train ride from Madrid, don’t miss it!
           </p>
         </div>
         {/* <div className="squidward">
