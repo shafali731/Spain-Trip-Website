@@ -16,7 +16,7 @@ function Restaurants() {
           <h2>Sacha</h2>
           <img src={sacha} alt="spongebob house" />
           <p>
-          This is the type of restaurant that makes everyone wish they were a regular, coming in for dinner every week and leaving in the wee hours. It offers the epitome of elevated comfort food: so-called “faux” ravioli stuffed with txangurro (king crab), marinated oysters, bone marrow with a side of sirloin, and wine — lots of wine. And if you spot owner Sacha Hormaechea greeting guests, make sure to shake his hand. He’s quite the character.
+          Sasha is a favorite for both locals and tourists. It’s an intimate bistro with chefs from both near and far. Customers often come for dinner and leave in the middle of the night! It offers elevated comfort food: faux” ravioli stuffed with txangurro (king crab), marinated oysters, bone marrow with a side of sirloin, and lots of wine! The owner Sacha Hormaechea is super friendly and loves creating guests! Check out the menu <a style= {{color: "rgb(170, 21, 27)"}} href="https://www.restaurantesacha.com">here!</a>
           </p>
           </div>
         </div>
@@ -25,8 +25,8 @@ function Restaurants() {
         <h2>DiverXo</h2>
           <img src={diverxo} alt="patrick house" />
           <p>
-
-          Think of Charlie and the Chocolate Factory, Alice in Wonderland, dreams and nightmares — this is the imaginative spirit chef David Muñoz brings to his three-Michelin-star restaurant located inside the Eurobuilding hotel. At DiverXO, Muñoz breaks the boundaries of avant-garde cooking, using intense flavors in two tasting menus that aim to surprise diners with dishes that imitate works of art both in their aesthetics and their taste.          </p>
+          DiverXo is the brainchild of imaginative spirit chef David Muñoz. This three-Michelin-star restaurant is located inside the Eurobuilding hotel. Muñoz breaks down the boundaries of avant-grade cooking with it’s food bursting in flavor and looking amazing. There are plenty of entrees, appetizers, and of course dessert. Check out the menu <a style= {{color: "rgb(170, 21, 27)"}} href="https://diverxo.com/en/home/">here!</a>
+          </p>
         </div>
         </div>
       </div>
