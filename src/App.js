@@ -4,7 +4,6 @@ import Homepage from './components/Homepage';
 import Hotels from './components/Hotels';
 import Attractions from './components/Attractions';
 import Restaurants from './components/Restaurants';
-import Startpage from './components/StartPage';
 
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 
@@ -15,7 +14,6 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Homepage />} />
-          {/* <Route index element={<Startpage />} /> */}
           <Route path="homePage" element={<Homepage />} />
           <Route path="hotels" element={<Hotels />} />
           <Route path="restaurants" element={<Restaurants />} />

@@ -1,5 +1,4 @@
 import './css/Homepage.css';
-import homeImage from './img/homeImage.jpg'
 
 function Homepage() {
   return (
@@ -19,27 +18,6 @@ function Homepage() {
           </p>
 
         </div>
-        {/* Photo by <a href="https://unsplash.com/@jorgefdezsalas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jorge Fernández Salas</a> on <a href="https://unsplash.com/s/photos/spain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-   */}
-        {/* <div className='homeImage'>
-          <img src={homeImage} alt="Spain" />
-        </div> */}
-        {/* <div class="rightside">
-
-          <p className='writing'> 
-          <ul>
-            <li>Hotels will take you to the different hotels we picked out for you</li>
-            <li>
-            Restaurants will show you the top restaurants in our opinion.</li>
-            <li>Attractions is where you
-          can see different places to visit.</li>
-          <li>Whenever you're lost you can always go home and return back 
-          to this page</li>
-          </ul>
-  
-          </p>
-
-        </div> */}
       </div>
     </div>
   );

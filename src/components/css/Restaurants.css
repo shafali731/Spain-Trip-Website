@@ -1,5 +1,4 @@
 .main {
-    /* background-color: rgb(241, 191, 0); */
     background-color: rgb(255, 255, 255);
     text-align: center;
     color: rgb(170, 21, 27)
@@ -40,12 +39,7 @@ p {
 }
 
 .boxes{
-    /* margin: 0 auto; */
   display: grid;
-  /* align-items: center; */
-  /* grid-template-rows: repeat(2, 1fr);
-  grid-auto-rows: 1fr;
-  grid-column-gap: 30px; */
   grid-template-columns: 1fr ;
   grid-template-rows: repeat(2,1fr);
   justify-content: center;
@@ -60,22 +54,3 @@ h2{
     font-family: "Courgette";
     font-size: 30px;
 }
-/* .spongebob{
-    display: flex;
-    flex-direction: row;
-    height: 100%; 
-    width: 100%;
-} */
-/* .sideb{
-    background-image: url("../img/flag.png");
-    opacity: .5;
-    width: 50%;
-
-} */
-
-/* .outer{
-
-    display: grid;
-  grid-template-columns: 1fr 8fr 1fr;
-   
-} */
