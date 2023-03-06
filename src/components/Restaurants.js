@@ -12,6 +12,7 @@ function Restaurants() {
       </div>
       <div className="boxes">
         <div className="spongebob">
+          {/* <p className='sideb'>REST</p> */}
           <div className='card'>
           <h2>Sacha</h2>
           <img src={sacha} alt="spongebob house" />
@@ -29,7 +30,7 @@ function Restaurants() {
           </p>
         </div>
         </div>
-      </div>
+    </div>
     </div>
   );
 }
