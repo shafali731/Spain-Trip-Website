@@ -1,5 +1,6 @@
 .main {
-    background-color: rgb(241, 191, 0);
+    /* background-color: rgb(241, 191, 0); */
+    background-image: linear-gradient(to right, rgba(170, 21, 26, 0.418), rgba(241, 193, 0, 0.418));
     text-align: center;
     color: rgb(170, 21, 27)
 }
